@@ -1,14 +1,8 @@
 {
-  "name": "@dcbto/skills",
+  "name": "dcbto-skills",
   "version": "1.0.0",
-  "description": "Install opencode agent skills on any machine",
-  "bin": {
-    "skills": "./install.js"
-  },
-  "files": [
-    "install.js",
-    "skills/"
-  ],
+  "private": true,
+  "description": "OpenCode agent skills from my .agents/skills directory",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/davicbtoliveira/skills.git"
