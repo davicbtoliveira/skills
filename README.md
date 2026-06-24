@@ -1,4 +1,4 @@
-# dcbto skills
+# My agent's skills
 
 Agent skills for [OpenCode](https://opencode.ai), sourced from `~/.agents/skills/`.
 
